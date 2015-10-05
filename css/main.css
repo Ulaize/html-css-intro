@@ -39,3 +39,16 @@ nav li {
 nav a {
     text-decoration: none;
 }
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+table th {
+    padding: 6px 13px;
+    border: 1px solid #000;
+}
+table td {
+    padding: 6px 13px;
+    border: 1px solid #000;
+    text-align: center;
+}
