@@ -52,3 +52,18 @@ table td {
     border: 1px solid #000;
     text-align: center;
 }
+footer{
+    background-color:black;
+    padding:10px;
+    color:white;
+}
+
+footer a{
+    color: tomato;
+    text-decoration: none;
+
+}
+
+img{
+    width: 100px;
+}
