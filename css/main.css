@@ -25,6 +25,7 @@ section {
 nav{
     background-color: pink;
     margin-bottom: 53px;
+    padding: 20px;
 }
 nav ul {
     list-style: none;
